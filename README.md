@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there, I'm Aditya 👋
+
+Nice to see you! I'm an undergrad majoring in Artificial Intelligence & Computer Science @ Carnegie Mellon University.
+
+Feel free to take a look at the projects & organizations I have worked on in the past. If there is anything that stands out, don't hesitate to reach out!
 
 <!--
 **adityak77/adityak77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
